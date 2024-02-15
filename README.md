@@ -4,9 +4,9 @@ Welcome to my data mining portfolio! This repository contains various projects I
 
 ## Projects
 
-### Project Name 1
-- **Description:** Brief description of the project, its goals, and the techniques used.
-- **Technologies:** List of technologies, tools, and libraries used (e.g., Python, Pandas, Scikit-learn, etc.).
+### Natrual language Processing with Python and the classics
+- **Description:** THis Jupiter notebook mines twho classic novels to determine the influence of characters (peopple ) in the novels.
+- **Technologies:** Numpy, pandas and matplotlib are used to mine and chart the results
 - **Repository Link:** [Link to GitHub repository](#)
 
 ### Project Name 2
