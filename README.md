@@ -7,7 +7,7 @@ Welcome to my data mining portfolio! This repository contains various projects I
 ### Natrual language Processing with Python and the classics
 - **Description:** THis Jupiter notebook mines twho classic novels to determine the influence of characters (peopple ) in the novels.
 - **Technologies:** Numpy, pandas and matplotlib are used to mine and chart the results
-- **Repository Link:** [https://github.com/jacobscannell47/Data-Mining/blob/main/Chapter_1_HW%20(1).ipynb](#)
+- <a href="https://github.com/jacobscannell47/Data-Mining/blob/main/Chapter_1_HW%20(1).ipynb"> Mining the Classics with NLP</a>
 
 ### Project Name 2
 - **Description:** Brief description of the project, its goals, and the techniques used.
