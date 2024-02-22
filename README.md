@@ -1,6 +1,6 @@
 # Data Mining Portfolio
 
-Welcome to my data mining portfolio! This repository contains various projects I've worked on related to data mining and analysis during my time at [Your College/University]. Feel free to explore and provide feedback.
+Welcome to my data mining portfolio! This repository contains various projects I've worked on related to data mining and analysis during my time at Catawba College. Feel free to explore and provide feedback.
 
 ## Projects
 
