@@ -9,10 +9,12 @@ Welcome to my data mining portfolio! This repository contains various projects I
 - **Technologies:** Numpy, pandas and matplotlib are used to mine and chart the results
 - <a href="https://githubtocolab.com/jacobscannell47/Data-Mining/blob/main/Chapter_1_HW%20(1).ipynb"> Mining the Classics with NLP</a>
 
-### Project Name 2
-- **Description:** Brief description of the project, its goals, and the techniques used.
-- **Technologies:** List of technologies, tools, and libraries used (e.g., Python, Pandas, Scikit-learn, etc.).
-- **Repository Link:** [Link to GitHub repository](#)
+### Exploring Pycarat
+- **Description:** THis Jupiter notebook explores pycarat for lowcode machine learning. 
+- **Technologies:** Numpy, pandas, pycarat and matplotlib are used to mine and chart the results
+- <a href="[https://githubtocolab.com/jacobscannell47/Data-Mining/blob/main/Chapter_1_HW%20(1).ipynb](https://colab.research.google.com/github/jacobscannell47/Data-Mining/blob/main/pycaret_multiclass_classification%20%281%29.ipynb)"> Exploring pycarat</a>
+
+
 
 ### Project Name 3
 - **Description:** Brief description of the project, its goals, and the techniques used.
