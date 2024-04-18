@@ -12,7 +12,7 @@ Welcome to my data mining portfolio! This repository contains various projects I
 ### Exploring Pycarat
 - **Description:** THis Jupiter notebook explores pycarat for lowcode machine learning. 
 - **Technologies:** Numpy, pandas, pycarat and matplotlib are used to mine and chart the results
-- <a href="[https://githubtocolab.com/jacobscannell47/Data-Mining/blob/main/Chapter_1_HW%20(1).ipynb](https://colab.research.google.com/github/jacobscannell47/Data-Mining/blob/main/pycaret_multiclass_classification%20%281%29.ipynb)"> Exploring pycarat</a>
+- <a href="https://colab.research.google.com/github/jacobscannell47/Data-Mining/blob/main/pycaret_multiclass_classification%20%281%29.ipynb"> Exploring pycarat</a>
 
 
 
