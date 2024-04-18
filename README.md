@@ -16,11 +16,14 @@ Welcome to my data mining portfolio! This repository contains various projects I
 
 
 
-### Project Name 3
-- **Description:** Brief description of the project, its goals, and the techniques used.
-- **Technologies:** List of technologies, tools, and libraries used (e.g., Python, Pandas, Scikit-learn, etc.).
-- **Repository Link:** [Link to GitHub repository](#)
+### Exploring descison trees
+- **Description:** THis Jupiter notebook descison tress and there chart making. 
+- **Technologies:** Numpy, pandas, pycarat and matplotlib are used to mine and chart the results
+- <a href="https://colab.research.google.com/github/jacobscannell47/Data-Mining/blob/main/pycaret_multiclass_classification%20%281%29.ipynb"> Exploring pycarat</a>
 
+
+
+https://colab.research.google.com/github/catawba-data-mining/CIS-3902-Data-Mining/blob/main/homework7_decision_trees.ipynb#scrollTo=g54lDxghXaNO
 ## About Me
 - Brief introduction about yourself, your interests, and your experience with data mining.
 - Feel free to include any relevant achievements or projects not listed above.
