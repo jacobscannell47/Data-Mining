@@ -21,9 +21,6 @@ Welcome to my data mining portfolio! This repository contains various projects I
 - **Technologies:** Numpy, pandas, pycarat and matplotlib are used to mine and chart the results
 - <a href="https://colab.research.google.com/github/catawba-data-mining/CIS-3902-Data-Mining/blob/main/homework7_decision_trees.ipynb#scrollTo=g54lDxghXaNO"> descison trees</a>
 
-
-
-https://colab.research.google.com/github/catawba-data-mining/CIS-3902-Data-Mining/blob/main/homework7_decision_trees.ipynb#scrollTo=g54lDxghXaNO
 ## About Me
 - Brief introduction about yourself, your interests, and your experience with data mining.
 - Feel free to include any relevant achievements or projects not listed above.
